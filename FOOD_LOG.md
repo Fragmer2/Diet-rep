@@ -33,15 +33,15 @@
 
 **Confidence:** medium-low. The largest unknowns are the amount of oil used for the potatoes/vegetables, actual chicken portion, and how much milk was consumed. 2% milk provides roughly 120 kcal and 8 g protein per 240 ml if the full glass was consumed.
 
-## 2026-10-15 — Snack (planned for later)
+## 2026-10-15 — Snacks
 
-- One medium banana
-- Estimated calories: approximately 105 kcal
-- Estimated carbohydrates: approximately 27 g
-- Estimated protein: approximately 1 g
-- Estimated fat: approximately 0 g
+- Two medium bananas (eaten)
+- Estimated calories: approximately 210 kcal total
+- Estimated carbohydrates: approximately 54 g total
+- Estimated protein: approximately 2.5 g total
+- Estimated fat: approximately 0.6 g total
 
-**Status:** planned, not yet confirmed eaten. Add to consumed daily total once eaten.
+**Context:** Eaten as snacks because the next meal will be late.
 
 ---
 
