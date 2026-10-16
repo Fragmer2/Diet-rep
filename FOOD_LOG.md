@@ -26,12 +26,21 @@ Estimated lunch protein: approximately 45–60 g.
 If/when the saved banana is eaten, add approximately 105 kcal and 27 g carbohydrates.
 Pasta portion, cooking oil, and sauce recipe are uncertain.
 
-## 2026-10-16 — Running daily total so far
+## 2026-10-16 — Dinner (cafeteria, photo estimate; newly served, consumption not yet confirmed)
+Foods: one piece of salmon (or similar fish), one piece of chicken, roasted Brussels sprouts, leafy green salad, and a potato-based side resembling mashed potato with a browned/crispy top.
+Estimated calories if the full plate is eaten: approximately 650–1,000 kcal.
+Working estimate: about 800 kcal.
+Estimated protein: approximately 55–75 g.
+Estimated carbohydrates: approximately 40–70 g.
+Estimated fat: approximately 25–50 g.
+Main uncertainties are fish/chicken portion sizes and oil/butter used on the Brussels sprouts and potato side. Treat this as planned until the user confirms how much was eaten.
+
+## 2026-10-16 — Running daily total before dinner
 Breakfast: approximately 900 kcal (includes one banana eaten in the morning).
 Lunch eaten so far, excluding the banana saved for later: approximately 645 kcal.
-Estimated consumed total so far: approximately 1,545 kcal.
+Estimated consumed total before dinner: approximately 1,545 kcal.
 Planned banana later: approximately 105 kcal, not included in consumed total until eaten.
-These totals are photo-based estimates, not exact measurements.
+If the full dinner and saved banana are eaten, estimated daily total would be about 2,450 kcal, with a broad uncertainty range.
 
 ---
 All nutrition values are estimates from photos, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
