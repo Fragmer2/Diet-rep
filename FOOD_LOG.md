@@ -41,7 +41,24 @@
 - Estimated protein: approximately 2.5 g total
 - Estimated fat: approximately 0.6 g total
 
-**Context:** Eaten as snacks because the next meal will be late.
+**Context:** Eaten because dinner was going to be late.
+
+## 2026-10-15 — Dinner (photo estimate; planned full serving)
+
+**Foods**
+- Roast beef, including one additional small piece of beef noted by the user
+- Mashed potatoes
+- Diet Coke
+
+**Estimated nutrition if the full visible serving is eaten**
+- Calories: approximately 600–900 kcal
+- Protein: approximately 45–65 g
+- Carbohydrates: approximately 40–65 g
+- Fat: approximately 20–40 g
+
+**Working estimate:** about 750 kcal and 55 g protein.
+
+**Confidence:** low to medium-low. Beef cut/fat content, exact portion sizes, and butter/milk in the mashed potatoes are unknown. Diet Coke is approximately 0–5 kcal. Count this dinner as planned until the user confirms it was eaten.
 
 ---
 
