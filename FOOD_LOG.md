@@ -17,11 +17,21 @@ Estimated calories if full serving eaten: 600–900 kcal; working estimate: 750 
 
 ## 2026-10-16 — Breakfast (cafeteria, photo estimate; eaten)
 Foods: about 70% of roasted potatoes, side salad with French dressing (120 kcal per serving), one sausage, full portion of omelet/eggs with cheese, one medium banana, water.
-Estimated calories: 715–1,080 kcal; working estimate: 900 kcal. Main uncertainties are cooking oil and omelet size/recipe.
+Estimated calories: 715–1,080 kcal; working estimate: 900 kcal. Main uncertainties are cooking oil and omelet size/recipe. The morning banana is included in this estimate.
 
-## 2026-10-16 — Lunch (cafeteria, photo estimate; full plate planned)
-Foods: grilled chicken breast, penne pasta, tomato sauce, broccoli, one medium banana planned for later, Coke Zero.
-Estimated calories if full plate and banana are eaten: 600–900 kcal; working estimate: 750 kcal. Estimated protein: 45–60 g. Pasta portion, cooking oil, and sauce recipe are uncertain. Banana is planned, not confirmed eaten.
+## 2026-10-16 — Lunch (cafeteria, photo estimate; eaten except banana saved for later)
+Foods: grilled chicken breast, penne pasta, tomato sauce, broccoli, Coke Zero. One medium banana is being saved for later and has not yet been eaten.
+Estimated lunch calories excluding banana: approximately 495–795 kcal; working estimate: 645 kcal.
+Estimated lunch protein: approximately 45–60 g.
+If/when the saved banana is eaten, add approximately 105 kcal and 27 g carbohydrates.
+Pasta portion, cooking oil, and sauce recipe are uncertain.
+
+## 2026-10-16 — Running daily total so far
+Breakfast: approximately 900 kcal (includes one banana eaten in the morning).
+Lunch eaten so far, excluding the banana saved for later: approximately 645 kcal.
+Estimated consumed total so far: approximately 1,545 kcal.
+Planned banana later: approximately 105 kcal, not included in consumed total until eaten.
+These totals are photo-based estimates, not exact measurements.
 
 ---
 All nutrition values are estimates from photos, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
