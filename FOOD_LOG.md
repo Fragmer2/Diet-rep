@@ -60,25 +60,28 @@
 
 **Confidence:** low to medium-low. Beef cut/fat content, exact portion sizes, and butter/milk in the mashed potatoes are unknown. Diet Coke is approximately 0–5 kcal. Count this dinner as planned until the user confirms it was eaten.
 
-## 2026-10-16 — Breakfast (cafeteria, photo estimate; partially planned)
+## 2026-10-16 — Breakfast (cafeteria, photo estimate; eaten)
 
-**Foods visible**
-- Roasted potatoes, planned to be fully eaten
-- Side salad with French dressing (user reports 120 kcal per serving), planned to be fully eaten
+**Foods**
+- Roasted potatoes; approximately 70% of the serving eaten (about 30% left)
+- Side salad with French dressing (user reports 120 kcal per serving)
 - One sausage
-- Cheese visible with the eggs/omelet
-- Omelet/scrambled egg portion, amount eaten not yet confirmed
-- One banana planned for later
+- Omelet/eggs with cheese; full portion eaten
+- One medium banana, eaten
 - Water instead of a caloric drink
 
-**Estimated nutrition**
-- Roasted potatoes: approximately 200–350 kcal, depending on portion and oil
-- Salad and French dressing: approximately 140 kcal (assuming one full 120-kcal dressing serving)
+**Estimated nutrition consumed**
+- Roasted potatoes (70% serving): approximately 140–245 kcal
+- Salad and French dressing: approximately 140 kcal
 - One sausage: approximately 80–140 kcal
-- Egg/omelet with cheese: approximately 250–450 kcal for the visible portion, but actual intake depends on how much is eaten
-- Banana planned for later: approximately 105 kcal
+- Omelet/eggs with cheese: approximately 250–450 kcal
+- Banana: approximately 105 kcal
+- Water: 0 kcal
 
-**Working estimate if all pictured food and the banana are eaten:** approximately 775–1,185 kcal. This is a broad photo-based estimate; update the total once the user confirms how much omelet was eaten and whether the banana was eaten. Water contributes 0 kcal.
+**Total working range:** approximately 715–1,080 kcal.
+**Working midpoint for daily tracking:** approximately 900 kcal.
+
+**Confidence:** low to medium-low. The main uncertainty is the amount of oil in the potatoes and the size/recipe of the omelet.
 
 ---
 
