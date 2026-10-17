@@ -68,6 +68,16 @@ Estimated calories actually eaten: approximately 650–1,000 kcal; working estim
 Estimated protein: approximately 25–40 g; carbohydrates 65–105 g; fat 30–50 g.
 These estimates depend on how much pasta and sausage was eaten before the leftovers photo and whether the full salad was finished. Photo estimates are not exact.
 
+## 2026-10-17 — Dinner (cafeteria, user-reported amount; photo estimate)
+Foods: meatloaf with tomato-based topping/gravy and mashed potatoes. User reports eating three pieces of meatloaf of roughly the pictured size and only a small amount of mashed potatoes.
+Estimated amount eaten:
+- Meatloaf: approximately 180–270 g total
+- Mashed potatoes: approximately 75–150 g
+- Tomato topping/gravy: small amount
+Estimated calories: approximately 500–850 kcal; working estimate: about 650 kcal.
+Estimated protein: approximately 30–45 g; carbohydrates 20–40 g; fat 30–50 g.
+This is a rough estimate because the photo shows food remaining and the original portion size is not known. Meatloaf recipe and fat content, and the amount of potato actually eaten, are the main uncertainties.
+
 ## 2026-10-17 — First meal (late breakfast / lunch; photo estimate)
 Foods: scrambled eggs/omelet, 2% milk, roasted potatoes, asparagus with onion.
 User-estimated portions: eggs/omelet 350–400 g; potatoes 150–250 g; milk one glass (estimated 240–300 ml); asparagus and onion roughly 100–150 g.
