@@ -55,17 +55,18 @@ Pancakes with chocolate: approximately 600 kcal.
 Estimated total: approximately 3,180 kcal. Plausible broad range: around 2,700–3,700 kcal due to uncertain portions and recipes. This is an estimate, not an exact measurement.
 
 
-## 2026-10-17 — Lunch (cafeteria, two-photo estimate including 45° view; Coke Zero)
-Foods: penne pasta with tomato sauce, a generous serving of sliced smoked sausage, one triangular slice of cheese/pepperoni pizza, and Coke Zero.
-Approximate portions from both the overhead and 45° photos:
-- Cooked penne pasta: 220–300 g
-- Tomato sauce: 120–180 g
-- Smoked sausage: 170–230 g
-- Pizza slice: 120–170 g
+## 2026-10-17 — Lunch (cafeteria, eaten amount estimated from leftovers; Coke Zero and side salad)
+Foods served: penne pasta with tomato sauce, sliced smoked sausage, one triangular slice of cheese/pepperoni pizza, Coke Zero, and a side salad with dressing (25 kcal per serving).
+Based on the before-and-after photos, the pizza appears to have been eaten; a substantial portion of the pasta and sausage remained. The salad appears mostly eaten.
+Estimated amount consumed:
+- Penne with tomato sauce: approximately 100–160 g pasta plus some sauce
+- Smoked sausage: approximately 70–120 g
+- Pizza: one slice, approximately 120–170 g
+- Side salad: approximately 1 small bowl, dressing approximately 25 kcal
 - Coke Zero: approximately 0 kcal
-Estimated calories: approximately 1,000–1,600 kcal; working estimate: about 1,300 kcal.
-Estimated protein: approximately 35–50 g; carbohydrates 105–155 g; fat 50–80 g.
-The second, lower-angle photo helps estimate food depth and suggests a generous amount of sausage. Main uncertainties are sausage type/fat content, actual pasta and sausage weights, pizza size, and oil in the sauce. These remain photo-based estimates; adjust if any food was left uneaten.
+Estimated calories actually eaten: approximately 650–1,000 kcal; working estimate: about 800 kcal.
+Estimated protein: approximately 25–40 g; carbohydrates 65–105 g; fat 30–50 g.
+These estimates depend on how much pasta and sausage was eaten before the leftovers photo and whether the full salad was finished. Photo estimates are not exact.
 
 ## 2026-10-17 — First meal (late breakfast / lunch; photo estimate)
 Foods: scrambled eggs/omelet, 2% milk, roasted potatoes, asparagus with onion.
