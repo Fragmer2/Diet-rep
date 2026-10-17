@@ -54,5 +54,13 @@ Banana snack: approximately 105 kcal.
 Pancakes with chocolate: approximately 600 kcal.
 Estimated total: approximately 3,180 kcal. Plausible broad range: around 2,700–3,700 kcal due to uncertain portions and recipes. This is an estimate, not an exact measurement.
 
+
+## 2026-10-17 — First meal (late breakfast / lunch; photo estimate)
+Foods: scrambled eggs/omelet, 2% milk, roasted potatoes, asparagus with onion.
+User-estimated portions: eggs/omelet 350–400 g; potatoes 150–250 g; milk one glass (estimated 240–300 ml); asparagus and onion roughly 100–150 g.
+Estimated calories: approximately 800–1,200 kcal; working estimate: about 1,000 kcal.
+Estimated protein: approximately 45–60 g; carbohydrates 45–75 g; fat 35–60 g.
+Largest uncertainty: egg recipe and amount of butter/oil used in the eggs and potatoes. Milk estimated at about 120–150 kcal for 2%.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
