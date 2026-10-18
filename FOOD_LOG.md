@@ -100,10 +100,10 @@ Estimated total: approximately 3,365 kcal. Broad plausible range: roughly 2,700�
 ## 2026-10-18 — Meal (home-cooked; weighed portions, estimated)
 Foods: 350 g mashed potatoes, 232 g roasted pork without gravy (gravy left uneaten), and 80 g smoked Gouda cheese. Cheese label/user report: 100 kcal per 38 g serving, so 80 g is approximately 211 kcal.
 Estimated calories:
-- Mashed potatoes, 350 g: approximately 350–525 kcal depending on butter/milk
+- Mashed potatoes, 350 g (milk and a little butter added): approximately 350–450 kcal
 - Roasted pork, 232 g: approximately 430–650 kcal depending on cut and visible/added fat
 - Smoked Gouda, 80 g: approximately 211 kcal
-Estimated total: approximately 990–1,390 kcal; working estimate: about 1,180 kcal.
+Estimated total: approximately 990–1,315 kcal; working estimate: about 1,140 kcal.
 Estimated protein: approximately 65–85 g. Main uncertainties are the mashed-potato recipe and pork cut/fat content. Gravy is excluded; fruit in the background is not included because consumption was not reported.
 
 ---
