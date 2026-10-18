@@ -78,12 +78,24 @@ Estimated calories: approximately 500–850 kcal; working estimate: about 650 kc
 Estimated protein: approximately 30–45 g; carbohydrates 20–40 g; fat 30–50 g.
 This is a rough estimate because the photo shows food remaining and the original portion size is not known. Meatloaf recipe and fat content, and the amount of potato actually eaten, are the main uncertainties.
 
+## 2026-10-17 — Late-night food (user-reported)
+- Around 9:00 PM: one slice of pepperoni pizza, estimated 280–380 kcal.
+- Around 11:24 PM: one McDonald's Big Mac, estimated approximately 580–590 kcal.
+Estimated late-night total: approximately 860–970 kcal; working estimate: about 915 kcal. Values vary with slice size and regional/menu recipe.
+
 ## 2026-10-17 — First meal (late breakfast / lunch; photo estimate)
 Foods: scrambled eggs/omelet, 2% milk, roasted potatoes, asparagus with onion.
 User-estimated portions: eggs/omelet 350–400 g; potatoes 150–250 g; milk one glass (estimated 240–300 ml); asparagus and onion roughly 100–150 g.
 Estimated calories: approximately 800–1,200 kcal; working estimate: about 1,000 kcal.
 Estimated protein: approximately 45–60 g; carbohydrates 45–75 g; fat 35–60 g.
 Largest uncertainty: egg recipe and amount of butter/oil used in the eggs and potatoes. Milk estimated at about 120–150 kcal for 2%.
+
+## 2026-10-17 — Daily total (rough estimate; late-night food included)
+- First meal: approximately 1,000 kcal.
+- Lunch actually eaten: approximately 800 kcal.
+- Dinner: approximately 650 kcal.
+- Late-night pizza and Big Mac: approximately 915 kcal.
+Estimated total: approximately 3,365 kcal. Broad plausible range: roughly 2,700–4,000 kcal because cafeteria portions, recipes, and the pizza slice size are uncertain.
 
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
