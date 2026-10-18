@@ -97,5 +97,14 @@ Largest uncertainty: egg recipe and amount of butter/oil used in the eggs and po
 - Late-night pizza and Big Mac: approximately 915 kcal.
 Estimated total: approximately 3,365 kcal. Broad plausible range: roughly 2,700–4,000 kcal because cafeteria portions, recipes, and the pizza slice size are uncertain.
 
+## 2026-10-18 — Meal (home-cooked; weighed portions, estimated)
+Foods: 350 g mashed potatoes, 232 g roasted pork without gravy (gravy left uneaten), and 80 g smoked Gouda cheese. Cheese label/user report: 100 kcal per 38 g serving, so 80 g is approximately 211 kcal.
+Estimated calories:
+- Mashed potatoes, 350 g: approximately 350–525 kcal depending on butter/milk
+- Roasted pork, 232 g: approximately 430–650 kcal depending on cut and visible/added fat
+- Smoked Gouda, 80 g: approximately 211 kcal
+Estimated total: approximately 990–1,390 kcal; working estimate: about 1,180 kcal.
+Estimated protein: approximately 65–85 g. Main uncertainties are the mashed-potato recipe and pork cut/fat content. Gravy is excluded; fruit in the background is not included because consumption was not reported.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
