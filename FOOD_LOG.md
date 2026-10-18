@@ -111,7 +111,8 @@ Estimated protein eaten: approximately 35–55 g. This is a rough visual estimat
 - Two fried eggs: approximately 140–220 kcal depending on cooking oil.
 - Cheese spread on eggs: approximately 40–100 kcal (amount/brand not specified).
 - Taco, 100 g: approximately 180–250 kcal depending on filling, shell and toppings.
-Estimated meal total including 100 g taco: approximately 630–1,070 kcal; working estimate: about 845 kcal.
+- Apple juice, 6 fl oz (about 177 mL): approximately 80–90 kcal.
+Estimated meal total including taco and apple juice: approximately 710–1,160 kcal; working estimate: about 930 kcal.
 Estimated protein: approximately 35–50 g. The biggest uncertainties are the fish type, oil in the marinade/frying, and amount of cheese spread.
 
 ---
