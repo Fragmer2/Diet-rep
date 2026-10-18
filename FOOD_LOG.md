@@ -115,5 +115,10 @@ Estimated protein eaten: approximately 35–55 g. This is a rough visual estimat
 Estimated meal total including taco and apple juice: approximately 710–1,160 kcal; working estimate: about 930 kcal.
 Estimated protein: approximately 35–50 g. The biggest uncertainties are the fish type, oil in the marinade/frying, and amount of cheese spread.
 
+## 2026-10-18 — Extra fish after 8.9 km run (weighed serving; photo estimate)
+- Tomato-marinated fish: 186 g including visible tomato sauce.
+Estimated calories: approximately 200–350 kcal; working estimate: about 275 kcal.
+Estimated protein: approximately 28–38 g. Calories depend on fish type and how much oil is in the sauce; weight appears to include the sauce.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
