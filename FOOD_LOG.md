@@ -105,5 +105,13 @@ Estimated calories actually eaten:
 - Smoked Gouda: approximately 105–145 kcal
 Estimated total eaten including one apple: approximately 615–1,035 kcal; working estimate: about 790 kcal.
 Estimated protein eaten: approximately 35–55 g. This is a rough visual estimate: the 192 g scale reading appears to include the plate and cannot be used as leftover food weight without a plate tare. Gravy is excluded; One apple was also eaten, estimated at approximately 80–110 kcal.
+## 2026-10-18 — Additional meal (potatoes, tomato-marinated fish and eggs; estimated)
+- Potatoes, 150 g: approximately 120–200 kcal depending on preparation.
+- Small fish marinated in tomato, approximately 120–150 g: approximately 150–300 kcal depending on fish type and oil/sauce.
+- Two fried eggs: approximately 140–220 kcal depending on cooking oil.
+- Cheese spread on eggs: approximately 40–100 kcal (amount/brand not specified).
+Estimated meal total: approximately 450–820 kcal; working estimate: about 630 kcal.
+Estimated protein: approximately 30–45 g. The biggest uncertainties are the fish type, oil in the marinade/frying, and amount of cheese spread.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
