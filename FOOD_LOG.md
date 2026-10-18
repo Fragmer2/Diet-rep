@@ -110,8 +110,9 @@ Estimated protein eaten: approximately 35–55 g. This is a rough visual estimat
 - Small fish marinated in tomato, approximately 120–150 g: approximately 150–300 kcal depending on fish type and oil/sauce.
 - Two fried eggs: approximately 140–220 kcal depending on cooking oil.
 - Cheese spread on eggs: approximately 40–100 kcal (amount/brand not specified).
-Estimated meal total: approximately 450–820 kcal; working estimate: about 630 kcal.
-Estimated protein: approximately 30–45 g. The biggest uncertainties are the fish type, oil in the marinade/frying, and amount of cheese spread.
+- Taco, 100 g: approximately 180–250 kcal depending on filling, shell and toppings.
+Estimated meal total including 100 g taco: approximately 630–1,070 kcal; working estimate: about 845 kcal.
+Estimated protein: approximately 35–50 g. The biggest uncertainties are the fish type, oil in the marinade/frying, and amount of cheese spread.
 
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
