@@ -120,5 +120,16 @@ Estimated protein: approximately 35–50 g. The biggest uncertainties are the fi
 Estimated calories: approximately 200–350 kcal; working estimate: about 275 kcal.
 Estimated protein: approximately 28–38 g. Calories depend on fish type and how much oil is in the sauce; weight appears to include the sauce.
 
+## 2026-10-19 — Earlier meal (user-reported; approximate)
+- Sandwich: user recalls approximately 520 kcal, but this has not been confirmed from the label.
+- Yogurt with a little cereal and strawberry: 186 kcal per user report.
+User recalled the combined total as approximately 796 kcal, but 520 + 186 = 706 kcal. Total remains uncertain; verify the sandwich label or total when available.
+
+## 2026-10-19 — Cafeteria meal (photo estimate; chicken, rice, cauliflower, fruit)
+Foods: baked chicken breast, seasoned rice, cauliflower, fruit salad (orange melon/cantaloupe and other fruit visible), and Coke Zero.
+Estimated portions from the photos: chicken approximately 120–160 g cooked; rice approximately 150–200 g; cauliflower approximately 100–150 g; fruit salad approximately 100–150 g. Coke Zero approximately 0 kcal.
+Estimated calories: approximately 450–700 kcal; working estimate: about 575 kcal.
+Estimated protein: approximately 35–50 g. Portion weights, rice seasoning/oil, and fruit salad contents are uncertain; this is a photo-based estimate.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
