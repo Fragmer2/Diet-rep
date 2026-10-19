@@ -131,5 +131,8 @@ Estimated portions from the photos: chicken approximately 120–160 g cooked; ri
 Estimated calories: approximately 450–700 kcal; working estimate: about 575 kcal.
 Estimated protein: approximately 35–50 g. Portion weights, rice seasoning/oil, and fruit salad contents are uncertain; this is a photo-based estimate.
 
+## 2026-10-19 — Snack
+- One medium banana: approximately 105 kcal and 27 g carbohydrates.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
