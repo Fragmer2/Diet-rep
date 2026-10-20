@@ -134,5 +134,17 @@ Estimated protein: approximately 35–50 g. Portion weights, rice seasoning/oil,
 ## 2026-10-19 — Snack
 - One medium banana: approximately 105 kcal and 27 g carbohydrates.
 
+## 2026-10-19 — Chicken wrap and green salad (photo estimate)
+- Chicken wrap with visible creamy sauce/cheese and tomato, plus leafy green salad.
+- Estimated if fully eaten: approximately 370–610 kcal; working estimate 450 kcal. Amount eaten was not explicitly confirmed.
+
+## 2026-10-19 — Dinner (shrimp fried rice; full container eaten)
+- Shrimp, rice, mixed vegetables, and likely cooking oil/sauce.
+- User confirmed eating both halves, so the full container was eaten.
+- Estimated full container: approximately 650–950 kcal; working estimate about 800 kcal. Estimated protein 35–55 g. Photo-based estimate; container size and oil/sauce are uncertain.
+
+## 2026-10-19 — Protein milkshake (nutrition label)
+- One full bottle (414 mL): 250 kcal, 23 g protein, 21 g carbohydrates (21 g sugars, including 10 g added sugars), and 8 g fat.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
