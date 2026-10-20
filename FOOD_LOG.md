@@ -146,5 +146,11 @@ Estimated protein: approximately 35–50 g. Portion weights, rice seasoning/oil,
 ## 2026-10-19 — Protein milkshake (nutrition label)
 - One full bottle (414 mL): 250 kcal, 23 g protein, 21 g carbohydrates (21 g sugars, including 10 g added sugars), and 8 g fat.
 
+## 2026-10-20 — Breakfast (photo estimate)
+- Croissant sandwich with egg, cheese, and a sausage or meat patty: approximately 350–500 kcal.
+- Roasted sweet potato: estimated serving approximately 150–220 g, about 135–250 kcal depending on added oil.
+- 2% milk: estimated glass approximately 240–300 mL, about 120–150 kcal.
+Estimated breakfast total: approximately 605–900 kcal; working estimate about 750 kcal. Estimated protein: roughly 25–35 g. Portion weights, sandwich filling, and cooking oil are uncertain.
+
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
