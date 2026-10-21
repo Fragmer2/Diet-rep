@@ -154,3 +154,23 @@ Estimated breakfast total: approximately 605–900 kcal; working estimate about 
 
 ---
 All nutrition values are estimates from photos or user-reported portions, not exact measurements. Update entries when portion sizes, labels, or amounts eaten are confirmed.
+
+
+## 2026-10-20 — Dinner and evening snacks (user-reported; approximate)
+Dinner around 6:00 PM:
+- Spaghetti with tomato paste/sauce, approximately 1.3 regular servings, and one meatball.
+- One chicken breast fillet.
+- One zero-sugar cola (assumed from the user's description; approximately 0 kcal).
+- Approximately 1.3 slices of pizza.
+Later snack around 9:00 PM:
+- Two medium bananas total (one eaten after dinner and one saved for later).
+
+Estimated calories:
+- Spaghetti and tomato sauce, 1.3 servings: approximately 350–550 kcal.
+- One meatball: approximately 60–120 kcal.
+- Chicken breast fillet: approximately 180–300 kcal depending on size and cooking oil.
+- Pizza, 1.3 slices: approximately 350–520 kcal depending on slice size/toppings.
+- Two medium bananas: approximately 210 kcal.
+- Zero-sugar cola: approximately 0 kcal.
+Estimated total for dinner and evening snacks: approximately 1,150–1,700 kcal; working estimate about 1,425 kcal.
+Estimated protein: approximately 65–95 g, mostly from chicken, meatball, and pizza. Portion sizes, chicken preparation, and pizza slice size are the main uncertainties.
